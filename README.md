@@ -1,16 +1,21 @@
 # lazy_party_planner
 
-A new Flutter application.
+## Purpose
+- This is a second flutter project. It is created to help the user plan a party with ease. In addition, while building the app, a lot of basic concepts has been implemented and improved.
+- Having the basic understanding of passing data between screen and app's life cycle
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+###### Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./Home_Screen.png" width="200">
+<img src="./example.png" width="200">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+###### Add/Edit Party Screen
+<img src="./add_date_screen.png" width="200">
+<img src="./add_party_screen.png" width="200">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###### Add/Edit Guest Screen
+<img src="./add_guest_info_screen.png" width="200">
+<img src="./guest_info_screen.png" width="200">
+
