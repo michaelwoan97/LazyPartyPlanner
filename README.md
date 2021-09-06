@@ -8,14 +8,24 @@
 
 ###### Home Screen
 
-<img src="./Home_Screen.png" width="200">
-<img src="./example.png" width="200">
+<p float="left">
+  <img src="./Home_Screen.png" width="200">
+  <img src="./example.png" width="200">
+</p>
+
 
 ###### Add/Edit Party Screen
-<img src="./add_date_screen.png" width="200">
-<img src="./add_party_screen.png" width="200">
+
+<p float="left">
+  <img src="./add_date_screen.png" width="200">
+  <img src="./add_party_screen.png" width="200">
+</p>
+
 
 ###### Add/Edit Guest Screen
-<img src="./add_guest_info_screen.png" width="200">
-<img src="./guest_info_screen.png" width="200">
+<p float="left">
+  <img src="./add_guest_info_screen.png" width="200">
+  <img src="./guest_info_screen.png" width="200">
+</p>
+
 
